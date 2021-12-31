@@ -1,0 +1,25 @@
+{
+  "name": "dtfbot",
+  "version": "1.0.0",
+  "description": "Telegram bot for downloading media from DTF.RU",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "mongodb": "^4.2.2",
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffybeehive/dtfdownload_bot.git"
+  },
+  "author": "fluffybeehive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffybeehive/dtfdownload_bot/issues"
+  },
+  "homepage": "https://github.com/fluffybeehive/dtfdownload_bot#readme"
+}
